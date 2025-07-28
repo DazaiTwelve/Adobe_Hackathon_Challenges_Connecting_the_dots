@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Your Test Persona",
+    "job_to_be_done": "The job your test persona needs to do",
+    "processing_timestamp": "2025-07-28T16:13:10.768922"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 10,
+      "section_title": "Untitled",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 10,
+      "section_title": "o Chill until set.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "section_title": " \nInstructions:",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 8,
+      "section_title": "o Drain on paper towels and serve.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 8,
+      "section_title": "Untitled",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nServe immediately.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Chill until set. \no Serve with bread. \n \nRisotto",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Form risotto into balls and stuff with a cube of mozzarella. \no Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBaba Ganoush",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Drain on paper towels and serve. \n \nFarofa",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": " \nBring to a simmer, then cover and transfer to the oven. \n \nCook for 2 hours, adding mushrooms, carrots, and pearl onions in the last 30 minutes. \n \nSeason with salt and pepper to taste. \n \nServe warm.",
+      "page_number": 8
+    }
+  ]
+}

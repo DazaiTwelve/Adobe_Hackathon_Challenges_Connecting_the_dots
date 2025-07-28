@@ -1,0 +1,8 @@
+# Filename: challenge_1b/requirements.txt
+PyMuPDF
+numpy
+sentence-transformers
+scikit-learn
+yake
+nltk
+tqdm
