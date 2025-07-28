@@ -33,7 +33,7 @@ This solution provides an implementation for Challenge 1A, designed to parse a s
 
 ### How to Build
 ```bash
-docker build -t solution-1a -f ./challenge_1a/Dockerfile.1a .
+docker build -t solution-1a -f ./challenge_1a/Dockerfile .
 ```
 
 ### How to Run
